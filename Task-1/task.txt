@@ -1,0 +1,1 @@
+Ask user for age, if user is below 18, display a warning message that he is underaged, if he is over show him alcohol page
